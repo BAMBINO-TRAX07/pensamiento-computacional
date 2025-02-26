@@ -25,3 +25,4 @@ if(a<g):
     print(a)
 if(i<a):
     print(i)
+Aldy Abimael Ramos Mota 1589025
