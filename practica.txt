@@ -1,0 +1,27 @@
+numero=int(input("ingrese un numero de 5 digitos"))
+a=numero%10
+b=numero%100
+c=b//10
+d=numero%1000
+e=d//100
+f=numero%10000
+g=f//1000
+h=numero%100000
+i=h//10000
+print(a,c,e,g,i)
+if(a>c):
+    print(a)
+elif(a<c):
+    print(c)
+if(g>e):
+    print(c)
+elif(g<e):
+    print(e)
+if(i>g):
+    print(i)
+elif(i<g):
+    print (g)
+if(a<g):
+    print(a)
+if(i<a):
+    print(i)
