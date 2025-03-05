@@ -1,0 +1,31 @@
+1).palabra="ptyhon es un lenguaje poderoso"
+salida=palabra.split()
+print(salida)
+print(salida[0])
+print(salida[-1])
+
+2).palabra2="hola   mundo    en python"
+salida2=palabra2.split()
+print(salida2)
+a="_".join(salida2)
+print(a)
+
+3).palabra3="usuario@gmail.com"
+salida3=palabra3.split("@")
+print(salida3)
+print(salida3[-1])
+
+4).print("ingrese la extension del documento")
+if("documento.pdf"):
+    print(true)
+elif("imagen.jpg"):
+    print(false)
+
+5).palabra5="me gusta python"
+salida5=palabra5.split()
+print(salida5)
+a3=(salida5[-1])
+a4=(salida5[1])
+a5=(salida5[0])
+print(a3, a4, a5)
+Aldy Abimael Ramos Mota 1589025
