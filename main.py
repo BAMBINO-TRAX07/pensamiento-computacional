@@ -17,7 +17,7 @@ while True:
         print("haz dejado el bucle con exito")
         break
  
- 
+ print("Aldy Abimael Ramos Mota 1589025")
     
 print("escenario 2")
 user_word=input("ingrese una palabra")
