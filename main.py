@@ -1,3 +1,4 @@
+Aldy Abiimael Ramos Mota 1589025
 class Persona:
     def __init__(self, nombre):
         self.nombre = nombre
